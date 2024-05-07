@@ -1,0 +1,86 @@
+{
+  "allVideos": [
+    {
+      "id": "d9cb",
+      "caption": "Beat It",
+      "imgURL": "https://i1.sndcdn.com/artworks-000329038545-d554xk-t500x500.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/oRdxUFDoQe0"
+    },
+    {
+      "id": "bfec",
+      "caption": "Avesham",
+      "imgURL": "https://i.ytimg.com/vi/L0yEMl8PXnw/maxresdefault.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "88f5",
+      "caption": "Drift King",
+      "imgURL": "https://i.ytimg.com/vi/DcYwisP1x00/maxresdefault.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/DcYwisP1x00"
+    },
+    {
+      "id": "66bd",
+      "caption": "Illuminati Song",
+      "imgURL": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/tOM-nWPcR4U"
+    }
+  ],
+  "history": [
+    {
+      "id": "2204",
+      "caption": "CSS",
+      "youtubeURL": "https://www.youtube.com/embed/1PnVor36_40",
+      "timeStamp": "5/3/2024, 9:51:23 AM GMT+5:30"
+    },
+    {
+      "id": "3794",
+      "caption": "Avesham",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "5/3/2024, 10:12:16 AM GMT+5:30"
+    },
+    {
+      "id": "02ac",
+      "caption": "Illuminati Song",
+      "youtubeURL": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "5/6/2024, 10:32:19 AM GMT+5:30"
+    },
+    {
+      "id": "522f",
+      "caption": "Illuminati Song",
+      "youtubeURL": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "timeStamp": "5/6/2024, 10:32:26 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "b2b5",
+      "categoryName": "Documentary",
+      "allVideos": [
+        {
+          "id": "2aca",
+          "caption": "Lionel Messi - The GOAT",
+          "imgURL": "https://tmssl.akamaized.net/images/foto/galerie/lionel-messi-argentinien-2022-1698689902-120754.jpg?lm=1698689910",
+          "youtubeURL": "https://www.youtube.com/embed/8PCwX2wRJqQ"
+        }
+      ]
+    },
+    {
+      "id": "5e99",
+      "categoryName": "Educational Videos",
+      "allVideos": [
+        {
+          "id": "db97",
+          "caption": "Learn F&O Trading",
+          "imgURL": "https://yt3.googleusercontent.com/3m7YWoidzuek7zpRiyFbszyDeNGiWvW2G3gu2TCx2N99i7d5AhZO6HP7PsdsyrlUQVd-eo_ZI-Q=s900-c-k-c0x00ffffff-no-rj",
+          "youtubeURL": "https://www.youtube.com/embed/cF-4zwVLE0k"
+        },
+        {
+          "id": "f964",
+          "caption": "CSS",
+          "imgURL": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.jpg",
+          "youtubeURL": "https://www.youtube.com/embed/1PnVor36_40"
+        }
+      ]
+    }
+  ]
+}
